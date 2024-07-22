@@ -816,11 +816,15 @@ input[data-autocompleted] {
     font-size: 24px;
     margin: 0px 7px;
 }
-#copyright{
-    text-align: center;
-    font-size: 14px;
-    color: white;
-    padding: 15px 0px;
+.dev-link{
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+}
+.dev-link a{
+	color: #fff;
+	text-decoration: underline;
 }
 
 /* footer */
