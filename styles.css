@@ -821,6 +821,7 @@ input[data-autocompleted] {
 	color: #fff;
 	text-align: center;
 	margin-top: 20px;
+	line-height: 150%;
 }
 .dev-link a{
 	color: #fff;
